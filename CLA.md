@@ -12,13 +12,15 @@ In order to contribute to a foundation project there must be an associated signe
 
 [Sign a CLA now](https://cla.nivenly.org) and associate your corresponding GitHub user with your signature.
 
-All contributors agree to abide by the [CONTRIBUTING.md](https://github.com/nivenly/governance/blob/main/CONTRIBUTING.md) as well as the [CODE_OF_CONDUCT.md](https://github.com/nivenly/governance/blob/main/CODE_OF_CONDUCT.md).
+All contributors agree to abide by the [The Nivenly Covenant](https://nivenly.org/covenant/).
 
 ### Corporate Contributions
 
 The Nivenly foundation follows the Apache v2.2 Corporate Contributor License Agreement which can be downloaded: [corporate-cla.pdf](https://github.com/nivenly/governance/raw/main/corporate-cla.pdf).
 
 Submissions can be emailed to [legal@nivenly.org](mailto:legal@nivenly.org).
+
+All contributors agree to abide by the [The Nivenly Covenant](https://nivenly.org/covenant/).
 
 ## Contributor License Agreement Terms
 
