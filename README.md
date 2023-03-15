@@ -3,7 +3,7 @@
 The Nivenly Foundation leverages the [software licensing grant terms](https://www.apache.org/licenses/contributor-agreements.html) originally called out by the ASF (Apache Software Foundation).
 
 - [Full CLA documentation (for corporations)](/CLA.md)
-- [Quick CLA documentation (for individuals)](cla.nivenly.org)
+- [Quick CLA documentation (for individuals)](https://cla.nivenly.org)
 
 ### Balancing Work and Nivenly
 
